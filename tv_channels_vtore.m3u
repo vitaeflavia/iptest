@@ -1,4 +1,6 @@
-﻿#EXTINF:-1,#EXTINF:-1,-----POTTUGAL---
+#EXTM3U
+
+#EXTINF:-1,#EXTINF:-1,-----POTTUGAL---
 http://run1.cunhap.com:7040/live/jeferson/cmosfincv/10203.ts
 #EXTINF:-1,PT_RTP1_HD
 http://run1.cunhap.com:7040/live/jeferson/cmosfincv/7988.ts
